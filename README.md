@@ -2,8 +2,7 @@
 
 Automatización de pruebas REST utilizando Karate Framework para la API de PetStore.
 
-## Descripción del ejercicio
-
+## Descripción 
 El sitio https://petstore.swagger.io/ proporciona una API REST completa para gestión de una tienda de mascotas.
 
 El objetivo de este ejercicio es automatizar pruebas para el módulo de **User** con los siguientes casos:
