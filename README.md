@@ -113,13 +113,10 @@ Abrir el archivo en un navegador para ver:
 
 | Tecnología | Versión | Descripción |
 |------------|---------|-------------|
-| Java | 8+ | Lenguaje de programación base |
-| Maven | 3.6+ | Herramienta de gestión de dependencias y construcción |
-| Karate DSL | 1.2.0 | Framework de automatización de pruebas API REST |
-| JUnit 5 | Incluido en Karate | Motor de ejecución de pruebas |
-| JavaScript | Integrado | Para funciones y expresiones dinámicas |
-| Gherkin | Sintaxis Karate | Lenguaje para definición de escenarios BDD |
-
+| Java | 8+ | Lenguaje base |
+| Maven | 3.6+ | Gestión de dependencias |
+| Karate DSL | 1.2.0 | Framework de automatización API |
+| JUnit 5 | Incluido | Ejecutor de pruebas |
 ---
 
 ## Características destacadas
