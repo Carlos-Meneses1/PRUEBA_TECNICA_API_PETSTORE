@@ -47,7 +47,7 @@ PRUEBA_TECNICA_API_PETSTORE/
 ├── karate-config.js
 ├── pom.xml
 ├── README.md
-└── CONCLUSIONES.md
+└── Conclusiones.txt
 ```
 
 ---
