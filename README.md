@@ -54,7 +54,13 @@ PRUEBA_TECNICA_API_PETSTORE/
 
 ## Instrucciones de ejecución (PASO A PASO)
 
-### 1. Clonar o descargar el repositorio
+### 1. Clonar o Descargar el repositorio
+
+**Opción 1:** Descarga manual
+- Hacer clic en `<> Code` → Pestaña `Local` → `Download ZIP`
+
+**Opción 2:** Clonar el repositorio
+
 ```bash
 git clone [https://github.com/Carlos-Meneses1/PRUEBA_TECNICA_API_PETSTORE.git]
 cd PRUEBA_TECNICA_API_PETSTORE
