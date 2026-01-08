@@ -56,7 +56,7 @@ PRUEBA_TECNICA_API_PETSTORE/
 
 ### 1. Clonar o descargar el repositorio
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone [https://github.com/Carlos-Meneses1/PRUEBA_TECNICA_API_PETSTORE.git]
 cd PRUEBA_TECNICA_API_PETSTORE
 ```
 
