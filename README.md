@@ -62,11 +62,11 @@ PRUEBA_TECNICA_API_PETSTORE/
 **Opción 2:** Clonar el repositorio
 
 ```bash
-git clone [https://github.com/Carlos-Meneses1/PRUEBA_TECNICA_API_PETSTORE.git]
+git clone https://github.com/Carlos-Meneses1/PRUEBA_TECNICA_API_PETSTORE.git
 cd PRUEBA_TECNICA_API_PETSTORE
 ```
 
-### 2. Ejecutar todas las pruebas
+### 2. Ejecutar todas las pruebas en la consola estando en la ubicacion de la carpeta
 ```bash
 mvn test
 ```
